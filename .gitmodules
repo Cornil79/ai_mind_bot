@@ -1,0 +1,3 @@
+[submodule "AI_Status_Team/Albert_Toma"]
+	path = AI_Status_Team/Albert_Toma
+	url = https://github.com/NeuronsUII/gpt_health_planet.git

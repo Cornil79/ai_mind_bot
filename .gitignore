@@ -1,0 +1,6 @@
+__pycache__/
+__old/
+.env
+faiss_router/.sheets.json
+temp/
+ai_venv/

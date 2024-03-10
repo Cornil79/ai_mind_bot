@@ -1,0 +1,17 @@
+telegram
+python-telegram-bot
+python-dotenv
+openai==0.28
+requests
+xmltodict
+pandas
+torch==2.2.1+cpu
+sentence_transformers
+matplotlib
+plotly
+faiss-cpu
+google-auth
+gspread
+nltk
+razdel
+oauth2client
