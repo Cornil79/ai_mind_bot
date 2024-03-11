@@ -117,7 +117,7 @@ print(df_filtered[['texts', 'Тип запроса (комби)']][7000:])
 
 from google.oauth2 import service_account
 import gspread
-from faiss_router.text_preproc import patterns
+from router_faiss.text_preproc import patterns
 
 def save_to_sheets(df_filtered, save_regexp=False):
     # Путь к файлу с учетными данными сервисного аккаунта

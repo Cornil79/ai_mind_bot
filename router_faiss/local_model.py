@@ -1,4 +1,4 @@
-from faiss_router.local_model_info import models_info
+from router_faiss.local_model_info import models_info
 import torch
 from tqdm.auto import tqdm
 import numpy as np

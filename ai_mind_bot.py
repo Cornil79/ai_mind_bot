@@ -5,7 +5,7 @@ import openai
 import os
 #from gpt import Chunk
 from open_ai_router import OpenAIRouter
-from faiss_router.router import FaissRouter
+from router_faiss.router import FaissRouter
 import random
 import time
 

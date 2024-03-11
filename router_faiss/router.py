@@ -22,15 +22,15 @@ import plotly.express as px
 import ast
 
 import faiss
-import faiss_router.funcs2
-import faiss_router.text_preproc
-from faiss_router.text_preproc import preprocess_text_list
-from faiss_router.local_model import LocalModel
+import router_faiss.funcs2
+import router_faiss.text_preproc
+from router_faiss.text_preproc import preprocess_text_list
+from router_faiss.local_model import LocalModel
 
 # Сначала импортируем модуль importlib
 import importlib
 
-file_path = 'faiss_router/temp/'
+file_path = 'router_faiss/temp/'
 
 class FaissRouter():
     def __init__(self, model_name='MiniLM'):
@@ -68,7 +68,7 @@ class FaissRouter():
         # @title Тестирование поиска FAISS
 
         from collections import Counter
-        from faiss_router.funcs2 import colorful_bar
+        from router_faiss.funcs2 import colorful_bar
 
         k = 10
         result = []

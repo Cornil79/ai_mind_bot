@@ -1,0 +1,13 @@
+{
+    "type": "service_account",
+    "project_id": "qna-project-415519",
+    "private_key_id": "60fff000bbf6e91ada04dbc344a9d498be692da0",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCOkuNczP1J9fOT\n/a4TRogGmSCiLUSJNbtLd8chJJIdiRCQf0WsMoDn1eS0gkdhVUqu2Szzf3DD+6MZ\norG1Zy5XqpY6UfV8gUM+3ocUnzW/131I0N7jg1jBS/C5n+gNsxOCvFHWY4PzZimy\n8OGgZUIbhxYHhD8udqUBXloC58s75f0+dDt9dq1aQ2Se9sJmV09y5rQXsHsG4F8O\nx/p3txE5aFWAybGVkrQ4ljGXeJjIDJAwUZ5rhI6pNVSnyCYgyCnaXyTPsYhBcXcy\ncS+5mTvaFU3qxvs//HR4DbKPDkF/Oi8g1mPxfdrVFNFz/E92aKhUy+zQJ4raaK5m\n+cFo6m1PAgMBAAECggEAMKuzQxhVdTypmME2fi0LPZljmwlyBpcZp5MtnsJRwRRr\n27Ae9EBPYhVSHE8HGBKaSqMn5b4BHF5YWOWB3efp2ZKJ80HMWGL2Nk2X9nG9Uw64\nnbV0CV3q3B3VAUE14gtaYzxvgYz6XAppvMTfeTZoAWa1nf5G5VEqVhPEDY7cgcco\nm8vWVnWVmVPqhKxNnNei8/aA6jcVOwoH4bKBEmt8sG+b7fjbAIRbLx/vnbzIpabw\nhP9WPQfMBjcZEXg2KyNlQDDUL8ZcnduUCUznNwb4u4MfaGotbOJ/KK0sNqIjGlN7\ngR18Ovplvcd29fyngKcrMLzCMRPg09SWg37YHwF/aQKBgQDDApSMA+fQxv09WPtg\nsjB43SUtQi+IXaiXDcYqg6l8FfDrSzPqAiW+77tdJsIWlooVVNEuMWmZqltO6qUp\nYUz5lp6U3P0RD1CrzhKlQ2RHAykds4iw4Fpdz6r54AkZPZzI/XLYyX3jhh5Pbni+\nbaLL75BrHZsTNt4iMV4RSnABuQKBgQC7KgMwu6VSpChOnie1BAkW+ijjp24V2fRp\n64w5kc/QZpdXYSqwPAFw5MmoTdqoOULVh4sLAdAcNwcdUj96U6O2vji9ZChwE3Q0\n6VyhOM8xuF3ji0nTlkc9RNY2iZw224XXLznyGaY8eiC6eWjAOdBiWvI0vfNSBklH\n4PxjYX8LRwKBgHbfAsfatZtJQSL9M7Z8yBlUzI2rE6hvVw5FAi/2NAEEqufy3oFd\nr76VCcQ9lQAJ4cAhBKXAzxsxghk35Ve1DSPzUVVy4/xbNpSTuD/vNZgn8A8/2inf\niJY4uYM5srIlIYZPIIvPPyLLJXzL3WRPFnZz4Le6w0XSI1P6fdnSYzZZAoGBALpB\nhelCY7SJHn+WTkeKm40dKAHdheUDAIND4EkOPTPUVHmlfbjiDkENvUzbJWVRjpw2\nhf1PMY5SiKb6SadvgrWCOa7n9IIMKhHZxc+/XBnLssuVusNwgraLQW4GpcnFzjyl\nh9HRCqiWlOldlwvsvN6USQKJoZIYJWb9k81GogpTAoGAfXCz5pUkyfrL+3t4wZ5+\nZ+KZEwTmYLEJfLJgqTfzdM6LOb32sqm7UAGTDdIhdwF8iNCdUIt4fkIbc5YAMmnG\n1rn9Zo98/wAAZxHACtLeCtqwbnrc6ci24pTNIx4VErQZRZBHzqCJEeDip9DP8OIV\ncFKP4u/V/y32J0y5PEQNwtk=\n-----END PRIVATE KEY-----\n",
+    "client_email": "qna-admin@qna-project-415519.iam.gserviceaccount.com",
+    "client_id": "104928690507938280329",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/qna-admin%40qna-project-415519.iam.gserviceaccount.com",
+    "universe_domain": "googleapis.com"
+}

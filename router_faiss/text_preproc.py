@@ -182,7 +182,7 @@ def load_patterns():
 
 
 
-from faiss_router._patterns import patterns
+from router_faiss._patterns import patterns
 # patterns = load_patterns()
 
 
